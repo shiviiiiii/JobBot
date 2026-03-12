@@ -1,1 +1,10 @@
+pandas
+gspread
+google-auth
+pymupdf
+requests
+python-jobspy
+playwright
+sentence-transformers
+spacy
 
